@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-# I'm currently learning 🌱
-# Fun fact: I can do a cartwheel! 
+-  I'm currently learning 🌱
+- Fun fact: I can do a cartwheel! 
 
 
 
